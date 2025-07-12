@@ -24,22 +24,25 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
+<!-- GitHub Languages -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit2004khandelwal&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
-<p>&nbsp;
+<!-- GitHub Stats -->
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit2004khandelwal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+<!-- GitHub Streak (fix: remove align conflicts) -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit2004khandelwal&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohit2004khandelwal&theme=tokyonight" alt="GitHub Streak" width="100%"/>
 </p>
 
-<br />
-
+<!-- GitHub Badge -->
 <p align="center">
   <a href="https://github.com/rohit2004khandelwal">
     <img src="https://img.shields.io/badge/GitHub-rohit2004khandelwal-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
 </p>
+
