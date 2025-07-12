@@ -33,14 +33,13 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit2004khandelwal" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit2004khandelwal&theme=default" alt="GitHub Streak" />
 </p>
 
----
+<br />
 
 <p align="center">
   <a href="https://github.com/rohit2004khandelwal">
-    <img src="https://img.shields.io/badge/GitHub-rohit2004khandelwal-181717?style=for-the-badge&logo=github" alt="GitHub Profile Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-rohit2004khandelwal-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
 </p>
-
