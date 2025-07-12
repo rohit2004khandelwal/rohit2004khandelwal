@@ -35,9 +35,6 @@
 </p>
 
 <!-- GitHub Streak (fix: remove align conflicts) -->
-<p>
-  <img src="https://streak-stats.demolab.com/?user=rohit2004khandelwal&theme=tokyonight" alt="GitHub Streak" width="100%"/>
-</p>
 
 <!-- GitHub Badge -->
 <p align="center">
