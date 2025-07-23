@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit2004khandelwal&show_icons=true&locale=en" alt="rohit2004khandelwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit2004khandelwal&" alt="rohit2004khandelwal" /></p>
+[![GitHub Streak](https://github-readme-streak-stat-phi.vercel.app?user=Rohit%20khandelwal&border_radius=5.3)](https://git.io/streak-stats)
